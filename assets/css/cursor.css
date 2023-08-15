@@ -207,11 +207,6 @@
 .cb-demo-container {
   padding: 0 20px;
 }
-@media (min-width: 1600px) {
-  .cb-demo-container {
-    padding: 0 120px;
-  }
-}
 .cb-demo-row {
   display: -webkit-box;
   display: -webkit-flex;
@@ -282,4 +277,8 @@
   transition: box-shadow 0.2s;
   transition: box-shadow 0.2s, -webkit-box-shadow 0.2s, -moz-box-shadow 0.2s;
 }
-
+@media (max-width: 820px) {
+  .cb-cursor {
+    display: none;
+  }
+}
