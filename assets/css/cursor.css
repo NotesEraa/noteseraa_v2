@@ -197,6 +197,13 @@
   justify-content: center;
   height: 100vh;
 }
+
+@media (max-width: 820px) {
+  .cb-cursor {
+    display: none;
+  }
+}
+
 .cb-demo-container {
   padding: 0 20px;
 }
@@ -276,8 +283,3 @@
   transition: box-shadow 0.2s, -webkit-box-shadow 0.2s, -moz-box-shadow 0.2s;
 }
 
-@media (max-width: 1600px) {
-  .cb-cursor {
-    display: none;
-  }
-}
