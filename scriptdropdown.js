@@ -27,7 +27,11 @@ document.addEventListener("DOMContentLoaded", function () {
     { name: 'Operating System', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1TBSPjI0V9Fn45CqsY4zomxgQcKY9TCoT' },
     { name: 'Database Management System', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Se-RhnD06i6kj4DCP6lQ8rAnPSzMCUot' },
     { name: 'Microprocessor And Interfacing', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Snzmo12sY8or3gCz4dACKfedZNt5TCc2' },
-     { name: 'Cloud Computing', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+    { name: 'Cloud Computing', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+    { name: 'Data Structures', college: 'medicaps', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+    { name: 'Discrete Mathematics', college: 'medicaps', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+     { name: 'Theory Of Computation', college: 'medicaps', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+    { name: 'Object Oriented Programming', college: 'medicaps', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
     // ... (other courses with links)
   ];
   
