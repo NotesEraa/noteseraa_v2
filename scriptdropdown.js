@@ -78,23 +78,25 @@ document.addEventListener("DOMContentLoaded", function () {
     { name: 'Engineering Workshop', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O0bOOWmcYky4jNR3GwY412bvWaVKKJuZ' },
     //______________________________________________________________________________________________________________________________________________________________________First Year End____________
 
-                          // Second Year_______________________________________________________________________________________________________________________________________________________________________
-// { name: 'Data Communication', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SEzoHc4opwFLYgPDvkPmYUSAYcE-sePR' },
-// { name: 'Basic Java Programming', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SID1BXnX7jb16TCq32MA5cx-TVdBwK6D' },
-// { name: 'Computer System Architecture', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SY0CK3X0kfy2j8PrKYsiVjYFW2GxUut2' },
-// { name: 'Digital Electronics', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SVxDEI6th9Nq7X_XrZgI-Du2k2lGM1Is' },
-// { name: 'Advance Java Programming', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Sg2uoP9eVMoJQ2lsHMhSC318mYW79n8U' },
-// { name: 'Operating System', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1TBSPjI0V9Fn45CqsY4zomxgQcKY9TCoT' },
-// { name: 'Database Management System', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Se-RhnD06i6kj4DCP6lQ8rAnPSzMCUot' },
-// { name: 'Microprocessor And Interfacing', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Snzmo12sY8or3gCz4dACKfedZNt5TCc2' },
-// { name: 'Cloud Computing', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Data Structures', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Discrete Mathematics', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Theory Of Computation', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Object Oriented Programming', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Statistics Analysis', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'R-Programming', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+
+    // Second Year_______________________________________________________________________________________________________________________________________________________________________
+{ name: 'Data Communication', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SEzoHc4opwFLYgPDvkPmYUSAYcE-sePR' },
+{ name: 'Basic Java Programming', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SID1BXnX7jb16TCq32MA5cx-TVdBwK6D' },
+{ name: 'Computer System Architecture', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SY0CK3X0kfy2j8PrKYsiVjYFW2GxUut2' },
+{ name: 'Digital Electronics', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SVxDEI6th9Nq7X_XrZgI-Du2k2lGM1Is' },
+{ name: 'Advance Java Programming', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Sg2uoP9eVMoJQ2lsHMhSC318mYW79n8U' },
+{ name: 'Operating System', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1TBSPjI0V9Fn45CqsY4zomxgQcKY9TCoT' },
+{ name: 'Database Management System', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Se-RhnD06i6kj4DCP6lQ8rAnPSzMCUot' },
+{ name: 'Microprocessor And Interfacing', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1Snzmo12sY8or3gCz4dACKfedZNt5TCc2' },
+{ name: 'Cloud Computing', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Data Structures', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Discrete Mathematics', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Theory Of Computation', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Object Oriented Programming', college: 'IPS Academy', year: '2', semester: '3', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Statistics Analysis', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'R-Programming', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
 //_______________________________________________________________________________________________________________________________________________________________________Second Year End
+
 
 // Third Year ____________________________________________________________________________________________________________________________________________________________________
 // { name: 'Artificial Intelligence', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
