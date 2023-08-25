@@ -27,7 +27,7 @@ body {
   }
   
   .select {
-    background: #AF69EE;
+    background: #ffda4d /*#AF69EE;*/
     color: #1F1D0D;
     display: flex;
     justify-content: space-between;
