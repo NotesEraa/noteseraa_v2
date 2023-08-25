@@ -97,17 +97,18 @@ document.addEventListener("DOMContentLoaded", function () {
 { name: 'R-Programming', college: 'IPS Academy', year: '2', semester: '4', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
 //_______________________________________________________________________________________________________________________________________________________________________Second Year End
 
+    // Third Year ____________________________________________________________________________________________________________________________________________________________________
+{ name: 'Artificial Intelligence', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Blockchain Architecture', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Python Programming', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Computer Networking', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Design And Analysis of Algorithms', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Web Technology', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Software Engineering', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+{ name: 'Fundamentals of Economics', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
+//_______________________________________________________________________________________________________________________________________________________________________Third Year End
 
-// Third Year ____________________________________________________________________________________________________________________________________________________________________
-// { name: 'Artificial Intelligence', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Blockchain Architecture', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Python Programming', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Computer Networking', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Design And Analysis of Algorithms', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Web Technology', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-// { name: 'Software Engineering', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7D
-// { name: 'Fundamentals of Economics', college: 'IPS Academy', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
-    //_______________________________________________________________________________________________________________________________________________________________________Third Year End
+
 
 
 
