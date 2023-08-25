@@ -61,21 +61,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //      ____________________                  IPS           ___________________________________
  //      First Year _______________________________________________________________________________________________________________________________________________________________
-    // { name: 'Optics And Modern Physics', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1PFZhNxekaI-kwxN8h709pEpzPoIvre0N' },
-    // { name: 'Applied Chemistry', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1k7NKtWHu143KpANLcGOtMHpZKMADl4yr' },
-    // { name: 'Engineering Mathematics I', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1OT7Hy3ysCcrqk7jeD0xuARpTbGgUGRqK' },
-    // { name: 'Engineering Mathematics II', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1YsY8PVIjgh9cEgy5_yCN-e-bOf1a1m0N' },
-    // { name: 'Communication skills', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1bvYiOGmkRGjGpB97vaRrhboe8CRrcMjs' },
-    // { name: 'Engineering Graphics', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1iuBRSvNLuYv4FQjiJLaXs6vnJkbY4HTF' },
-    // { name: 'Basic Mechanical Engineering', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1awE1WQNGUDlLIvFUaWMBq4vnO4kwBGaN' },
-    // { name: 'Basic Electronics Engineering', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH' },
-    // { name: 'Basic Electrical Engineering', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O_COyW-nNshDnfKTH8oKrtFDpNU4IYqE' },
-    // { name: 'Basic Civil Engineering', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1aYha6Rtxkp4eSPBjv9tcZ32PtN0QRO8j' },
-    // { name: 'Computer programming I', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
-    // { name: 'Computer programming II', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
-    // { name: 'History of Science and Technology', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1CtST5vsRB8dluSpWObNvnWpzNbVlaUVZ' },
-    // { name: 'Environmental Science', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1YoMrOkM3n9Wc8Q2kKP1tRy_P9Ujs3l1Z' },
-    // { name: 'Engineering Workshop', college: 'IPS', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O0bOOWmcYky4jNR3GwY412bvWaVKKJuZ' },
+    { name: 'Optics And Modern Physics', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1PFZhNxekaI-kwxN8h709pEpzPoIvre0N' },
+    { name: 'Applied Chemistry', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1k7NKtWHu143KpANLcGOtMHpZKMADl4yr' },
+    { name: 'Engineering Mathematics I', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1OT7Hy3ysCcrqk7jeD0xuARpTbGgUGRqK' },
+    { name: 'Engineering Mathematics II', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1YsY8PVIjgh9cEgy5_yCN-e-bOf1a1m0N' },
+    { name: 'Communication skills', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1bvYiOGmkRGjGpB97vaRrhboe8CRrcMjs' },
+    { name: 'Engineering Graphics', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1iuBRSvNLuYv4FQjiJLaXs6vnJkbY4HTF' },
+    { name: 'Basic Mechanical Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1awE1WQNGUDlLIvFUaWMBq4vnO4kwBGaN' },
+    { name: 'Basic Electronics Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH' },
+    { name: 'Basic Electrical Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O_COyW-nNshDnfKTH8oKrtFDpNU4IYqE' },
+    { name: 'Basic Civil Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1aYha6Rtxkp4eSPBjv9tcZ32PtN0QRO8j' },
+    { name: 'Computer programming I', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
+    { name: 'Computer programming II', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
+    { name: 'History of Science and Technology', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1CtST5vsRB8dluSpWObNvnWpzNbVlaUVZ' },
+    { name: 'Environmental Science', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1YoMrOkM3n9Wc8Q2kKP1tRy_P9Ujs3l1Z' },
+    { name: 'Engineering Workshop', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O0bOOWmcYky4jNR3GwY412bvWaVKKJuZ' },
     //______________________________________________________________________________________________________________________________________________________________________First Year End____________
 
                           // Second Year_______________________________________________________________________________________________________________________________________________________________________
