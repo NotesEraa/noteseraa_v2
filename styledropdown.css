@@ -11,6 +11,10 @@ body {
     align-items: center;
     flex-wrap: wrap;
   }
+.newslatter_box{
+    background-color: #705792;
+    box-shadow: 10px 10px 10px #382045;
+}
   
   .dropdown {
     min-width: 15em;
