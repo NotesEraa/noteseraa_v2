@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
     { name: 'Basic Mechanical Engineering', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1awE1WQNGUDlLIvFUaWMBq4vnO4kwBGaN' },
     { name: 'Basic Electronics Engineering', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH' },
     { name: 'Basic Electrical Engineering', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O_COyW-nNshDnfKTH8oKrtFDpNU4IYqE' },
-    { name: 'Basic Civil Engineering', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1aYha6Rtxkp4eSPBjv9tcZ32PtN0QRO8j' },
+    { name: 'Basic Civil Engineering', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dx8bs8-ht9KHjvSBtbwFXgaIuJIyVGLI/view?usp=drive_link' },
     { name: 'Computer programming I', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
     { name: 'Computer programming II', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
     { name: 'History of Science and Technology', college: 'medicaps', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1CtST5vsRB8dluSpWObNvnWpzNbVlaUVZ' },
