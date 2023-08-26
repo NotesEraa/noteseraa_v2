@@ -162,9 +162,27 @@ document.addEventListener("DOMContentLoaded", function () {
 { name: 'Fundamentals of Economics', college: 'Acropolis', year: '3', semester: '5', type: 'notes', link: 'https://drive.google.com/drive/folders/1SshjU6cSYUny2Vu_TYPUo5rv_r7Df5U3' },
 //_______________________________________________________________________________________________________________________________________________________________________Third Year End
                    
-    
-  ];
-  
+//      ____________________                MIT           ___________________________________
+
+
+    // First Year _______________________________________________________________________________________________________________________________________________________________
+[
+  { name: 'Engineering Physics', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dGrGLgWgDMEKGLFs6Qsh-eqRwThx43m-/view?usp=drive_link' },
+  { name: 'Engineering Chemistry', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1k7NKtWHu143KpANLcGOtMHpZKMADl4yr' },
+  { name: 'Engineering Mathematics I', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dJX2MzzcWEj83pcnKYWVKTKb5_aXNPy8/view?usp=drive_link' },
+  { name: 'Engineering Mathematics II', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1hP7ABZI0MG3cl_WLSaWEnQOhQhS5dZwg/view?usp=drive_link' },
+  { name: 'English for Communication', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1bNEHxbg1Xe7nWahWShPuX6l7q_xRBshz/view?usp=drive_link' },
+  { name: 'Engineering Graphics', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1iuBRSvNLuYv4FQjiJLaXs6vnJkbY4HTF' },
+  { name: 'Basic Mechanical Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1awE1WQNGUDlLIvFUaWMBq4vnO4kwBGaN' },
+  { name: 'Basic Electronics Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH?usp=drive_link' },
+  { name: 'Basic Electrical Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1aXD60JboCPXuy7_t7FSzZ_cUgnKMorCD/view?usp=drive_link' },
+  { name: 'Basic Civil Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dx8bs8-ht9KHjvSBtbwFXgaIuJIyVGLI/view?usp=drive_link' },
+  { name: 'History of Science and Technology', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1aJcKs2j4xESEzPLvq6TH0G2IxLsJdngr/view?usp=drive_link' },
+  { name: 'Environmental Science', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dN3rIs1UUaQ2__WreTv4FKftrpEGtsd6/view?usp=drive_link' },
+  { name: 'Manufacturing Practices', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dNTnRqAmlPbRpzrcDpMPGz5uXK3XQMou/view?usp=drive_link' },
+  // First Year End
+];
+
 
   dropdowns.forEach((dropdown) => {
     const select = dropdown.querySelector(".select");
