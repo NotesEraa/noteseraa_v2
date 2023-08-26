@@ -126,7 +126,6 @@ document.addEventListener("DOMContentLoaded", function () {
   { name: 'Basic Electronics Engineering', college: 'Acropolis', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH?usp=drive_link' },
   { name: 'Basic Electrical Engineering', college: 'Acropolis', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1aXD60JboCPXuy7_t7FSzZ_cUgnKMorCD/view?usp=drive_link' },
   { name: 'Basic Civil Engineering', college: 'Acropolis', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dx8bs8-ht9KHjvSBtbwFXgaIuJIyVGLI/view?usp=drive_link' },
-  { name: 'Environmental Science', college: 'Acropolis', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dN3rIs1UUaQ2__WreTv4FKftrpEGtsd6/view?usp=drive_link' },
   { name: 'Manufacturing Practices', college: 'Acropolis', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dNTnRqAmlPbRpzrcDpMPGz5uXK3XQMou/view?usp=drive_link' },
   // First Year End_______________________________________________________________________________________________________________________________________________________________________________
 
@@ -176,7 +175,6 @@ document.addEventListener("DOMContentLoaded", function () {
   { name: 'Basic Electronics Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH?usp=drive_link' },
   { name: 'Basic Electrical Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1aXD60JboCPXuy7_t7FSzZ_cUgnKMorCD/view?usp=drive_link' },
   { name: 'Basic Civil Engineering', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dx8bs8-ht9KHjvSBtbwFXgaIuJIyVGLI/view?usp=drive_link' },
-  { name: 'Environmental Science', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dN3rIs1UUaQ2__WreTv4FKftrpEGtsd6/view?usp=drive_link' },
   { name: 'Manufacturing Practices', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dNTnRqAmlPbRpzrcDpMPGz5uXK3XQMou/view?usp=drive_link' },
   // First Year End
 ];
