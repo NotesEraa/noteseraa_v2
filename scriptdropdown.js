@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     // First Year _______________________________________________________________________________________________________________________________________________________________
-[
+
   { name: 'Engineering Physics', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dGrGLgWgDMEKGLFs6Qsh-eqRwThx43m-/view?usp=drive_link' },
   { name: 'Engineering Chemistry', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1k7NKtWHu143KpANLcGOtMHpZKMADl4yr' },
   { name: 'Engineering Mathematics I', college: 'MIT', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dJX2MzzcWEj83pcnKYWVKTKb5_aXNPy8/view?usp=drive_link' },
