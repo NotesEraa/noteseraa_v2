@@ -61,19 +61,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //      ____________________                  IPS           ___________________________________
  //      First Year _______________________________________________________________________________________________________________________________________________________________
-    { name: 'Optics And Modern Physics', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1PFZhNxekaI-kwxN8h709pEpzPoIvre0N' },
+    { name: 'Optics And Modern Physics', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dGrGLgWgDMEKGLFs6Qsh-eqRwThx43m-/view?usp=drive_link' },
     { name: 'Applied Chemistry', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1k7NKtWHu143KpANLcGOtMHpZKMADl4yr' },
-    { name: 'Engineering Mathematics I', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1OT7Hy3ysCcrqk7jeD0xuARpTbGgUGRqK' },
-    { name: 'Differential Equations and Vector Calculus', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1YsY8PVIjgh9cEgy5_yCN-e-bOf1a1m0N' },
-    { name: 'English', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1bvYiOGmkRGjGpB97vaRrhboe8CRrcMjs' },
+    { name: 'Calculus and Linear Algebra', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dJX2MzzcWEj83pcnKYWVKTKb5_aXNPy8/view?usp=drive_link' },
+    { name: 'Differential Equations and Vector Calculus', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1hP7ABZI0MG3cl_WLSaWEnQOhQhS5dZwg/view?usp=drive_link' },
+    { name: 'English', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1bNEHxbg1Xe7nWahWShPuX6l7q_xRBshz/view?usp=drive_link' },
     { name: 'Engineering Graphics And Visualization', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1iuBRSvNLuYv4FQjiJLaXs6vnJkbY4HTF' },
     { name: 'Basic Mechanical Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1awE1WQNGUDlLIvFUaWMBq4vnO4kwBGaN' },
-    { name: 'Basic Electronics Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH' },
-    { name: 'Basic Electrical Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O_COyW-nNshDnfKTH8oKrtFDpNU4IYqE' },
-    { name: 'Basic Civil Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1aYha6Rtxkp4eSPBjv9tcZ32PtN0QRO8j' },
+    { name: 'Basic Electronics Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1f6CWVkp7rvdZ6IvhQX-8UgxgQTVFJ9BH?usp=drive_link' },
+    { name: 'Basic Electrical Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1aXD60JboCPXuy7_t7FSzZ_cUgnKMorCD/view?usp=drive_link' },
+    { name: 'Basic Civil Engineering', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dx8bs8-ht9KHjvSBtbwFXgaIuJIyVGLI/view?usp=drive_link' },
     { name: 'Programming for problem Solving I', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
-    { name: 'Programming for problem Solving II', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1Yttp6jdzLvAdm7ASi-nwvc50hD5eyjAN' },
-    { name: 'Manufacturing Practices', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/drive/folders/1O0bOOWmcYky4jNR3GwY412bvWaVKKJuZ' },
+    { name: 'Programming for problem Solving II', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: '' },
+    { name: 'Manufacturing Practices', college: 'IPS Academy', year: '1', semester: '1', type: 'notes', link: 'https://drive.google.com/file/d/1dNTnRqAmlPbRpzrcDpMPGz5uXK3XQMou/view?usp=drive_link' },
     //______________________________________________________________________________________________________________________________________________________________________First Year End____________
 
 
