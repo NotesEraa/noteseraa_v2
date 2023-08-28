@@ -4055,8 +4055,8 @@ Responsive For Mobile & Tablet Devices
             flex: 0 0 340px;
   }
   .image_widget {
-    -webkit-box-shadow: -5px 5px 0 0 #FFD32B;
-            box-shadow: -5px 5px 0 0 #FFD32B;
+    -webkit-box-shadow: -5px 5px 0 0  #b6bfc7;     /*  #FFD32B; */
+            box-shadow: -5px 5px 0 0  #b6bfc7;
   }
   .newslatter_box {
     -webkit-box-shadow: 5px 5px 0 0 #FFD32B;
